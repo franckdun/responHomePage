@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+
 }
 
 body {
@@ -56,7 +57,7 @@ header {
 
 .welcome-text {
     position: absolute;
-    width: 600px;
+    /* width: 600px; */
     height: 300px;
     margin: 20% 30%;
     text-align: center;
@@ -125,6 +126,8 @@ header {
         width: 100%;
         height: auto;
         margin: 30% 0;
+        text-align: center;
+
     }
 
     .welcome-text h1 {
