@@ -25,7 +25,7 @@ header {
 .nav-area {
     float: right;
     list-style: none;
-    margin-top: 30px;
+    /* margin-top: 30px; */
 }
 
 .nav-area li {
@@ -33,26 +33,27 @@ header {
 }
 
 .nav-area li a {
-    color: #fff;
+    color: #1e1c1c;
     text-decoration: none;
     padding: 5px 20px;
     font-family: poppins;
-    font-size: 16px;
+    font-size: 20px;
     text-transform: uppercase;
 }
 
 .nav-area li a:hover {
     background: #fff;
-    color: #333;
+    color: #d92222;
 }
 
 .logo {
     float: left;
+    width: 225px;
 }
 
 .logo img {
     width: 100%;
-    padding: 15px 0;
+    padding: 0px 0;
 }
 
 .welcome-text {
